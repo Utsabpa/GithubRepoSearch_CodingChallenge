@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--app-primary-color);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  &.dark {
+    background-color: #4e4e4e;
+  }
+  .toggle {
+    justify-content: flex-end;
+  }
+}
+
+.form {
+  display: flex;
+  .search {
+    flex: 1;
+    max-width: 500px;
+  }
+  .search-button {
+    margin-left: 20px;
+  }
+}

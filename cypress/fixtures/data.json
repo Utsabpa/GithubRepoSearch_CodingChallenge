@@ -1,0 +1,278 @@
+{
+  "data": {
+    "search": {
+      "edges": [
+        {
+          "node": {
+            "login": "ttestt",
+            "repositories": {
+              "edges": [],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttestt4",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjcwMzAyMQ==",
+                    "name": "project4v2",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjcwMzAzMA==",
+                    "name": "project3",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjcwMzAzMw==",
+                    "name": "real_ProjectTwo",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjcwMzAzNg==",
+                    "name": "SNAKE",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttesttestt",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxODg3MDkxNzU=",
+                    "name": "hugo-webapp",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxODg5NzcxODU=",
+                    "name": "test",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxODkzNTA5MTc=",
+                    "name": "express-cc",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxODkzNTEwNzA=",
+                    "name": "manpenaloza-website",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttestt1",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk1MjM1NDg1Mw==",
+                    "name": "ttestt",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk5Mzk3OTgxNA==",
+                    "name": "test4_",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxMTIwNjUxMDQ=",
+                    "name": "Diet",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttesttes93405",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxNTY5NTEyMzE=",
+                    "name": "2018gcgj",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDg1NDgwMjA=",
+                    "name": "LiteraryDessert",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkyNDkyMzE4NDg=",
+                    "name": "GraphicCollection",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnkxMDg1NDk0MzE=",
+                    "name": "OwenCollections",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttesttuser123",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk4NjQ1NDcyOA==",
+                    "name": "forktest",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                },
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk4NjQ1NDc3Nw==",
+                    "name": "lucene",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttesttttwe",
+            "repositories": {
+              "edges": [],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "TTesTT0",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk4MTI3OTA3NQ==",
+                    "name": "Test",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttesttesttest",
+            "repositories": {
+              "edges": [],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        },
+        {
+          "node": {
+            "login": "ttesttest",
+            "repositories": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "MDEwOlJlcG9zaXRvcnk4ODUyODk5",
+                    "name": "index",
+                    "__typename": "Repository"
+                  },
+                  "__typename": "RepositoryEdge"
+                }
+              ],
+              "__typename": "RepositoryConnection"
+            },
+            "__typename": "User"
+          },
+          "__typename": "SearchResultItemEdge"
+        }
+      ],
+      "__typename": "SearchResultItemConnection"
+    }
+  }
+}

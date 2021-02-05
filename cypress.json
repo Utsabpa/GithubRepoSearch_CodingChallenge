@@ -1,0 +1,6 @@
+{
+  "componentFolder": "src",
+  "nodeVersion": "system",
+  "experimentalComponentTesting": true,
+  "testFiles": "**/*.spec.*"
+}

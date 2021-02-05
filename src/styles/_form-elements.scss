@@ -1,0 +1,31 @@
+input[type="text"] {
+  border: 1px solid #cbcbcb;
+  padding: 0 16px;
+  border-radius: 2px;
+  height: 36px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  &:focus {
+    border: 1px solid #999999;
+  }
+}
+
+button {
+  color: var(--app-primary-color);
+  background-color: var(--white);
+  border: 1px solid #cccccc;
+  padding: 0 20px;
+  min-width: 120px;
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+  &:active {
+    background-color: #fafafa;
+  }
+  &[disabled] {
+    background-color: #cccccc;
+  }
+}

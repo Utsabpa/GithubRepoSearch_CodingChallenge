@@ -1,0 +1,37 @@
+.repo-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-data {
+  color: var(--no-data-color);
+  font-weight: 800;
+}
+
+.card {
+  border: 1px solid #eeeeee;
+  display: flex;
+  margin: 20px;
+  box-shadow: 2px 2px 2px 0px #e6e6e6;
+  padding: 12px;
+  .name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  &:hover {
+    background-color: #fafafa;
+  }
+  &.dark {
+    color: white;
+    &:hover {
+      background-color: #3a3a3a;
+    }
+  }
+}
